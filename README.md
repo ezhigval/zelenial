@@ -99,5 +99,5 @@ ZELENIAL должен помогать пользователю не в одно
 
 ## Контакт
 
-- Maintainer: Валентин Ежигин
+- Maintainer: Валентин Ежов
 - GitHub: [github.com/ezhigval](https://github.com/ezhigval)
